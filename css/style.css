@@ -102,7 +102,8 @@ h1 {
 .principal {
 /*cambio el font para probar-Mariela
 	font-family: 'Parisienne', cursive;*/
-	font-family: 'Indie Flower', cursive;
+/*Pongo un font inexistente para probar. Luego revertiré- Rosa*/
+	font-family: 'Otro tipo', cursive;
 	text-align: center;
 	font-size: 2.6em;
 	color: #0071bc;
